@@ -1,0 +1,4 @@
+/Users/koudanaoya/Desktop/TimeKeeper1/app/build/intermediates/classes/debug
+/Users/koudanaoya/Desktop/TimeKeeper1/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-c2b8846966021a1d7f954f7507b3141c4bda3e9e.jar
+/Users/koudanaoya/Desktop/TimeKeeper1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-701b4c8256ec1e0681a3a670f6391cd6dc5618e6.jar
+/Users/koudanaoya/Desktop/TimeKeeper1/app/build/intermediates/pre-dexed/debug/classes-7d9bee203d09516b56ed8d649ea44b1d1cbe17fe.jar
